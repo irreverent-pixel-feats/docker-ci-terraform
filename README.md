@@ -8,7 +8,12 @@ Docker Image for our CI processes for terraform projects
 
 ### More
 
-**TODO**: Write a proper description
+Contains the following things:
+
+- `terraform`
+
+Eventually it will include other bits of software we use to verify the config
+e.g. `terraform-kitchen`
 
 ## Building the project
 
