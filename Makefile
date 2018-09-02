@@ -1,4 +1,4 @@
-REPO = ${ECOLOGY_DOCKER_REPO}
+REPO = irreverentpixelfeats/ci-terraform
 BASE_TAG = "sha"
 
 .PHONY: version deps build image all
