@@ -1,5 +1,5 @@
 REPO = irreverentpixelfeats/ci-terraform
-BASE_TAG = "sha"
+BASE_TAG = "0.11.3"
 
 .PHONY: version deps build image all
 

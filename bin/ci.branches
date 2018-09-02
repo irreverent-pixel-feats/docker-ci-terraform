@@ -2,7 +2,7 @@
 
 # Branch CI build script
 
-# Do some setup stuff
+apt-get update -y && apt-get install -y make git
 
 # Then do what the dev should have tested locally
 bin/ci.common
