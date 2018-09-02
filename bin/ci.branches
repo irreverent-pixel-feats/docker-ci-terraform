@@ -2,7 +2,7 @@
 
 # Branch CI build script
 
-apt-get install -y make
+apt-get update -y && apt-get install -y make
 
 # Then do what the dev should have tested locally
 bin/ci.common
