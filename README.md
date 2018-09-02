@@ -1,4 +1,4 @@
-# docker-ci-terraform
+# docker-ci-terraform [![Build Status](https://travis-ci.com/irreverent-pixel-feats/docker-ci-terraform.svg?branch=master)](https://travis-ci.com/irreverent-pixel-feats/docker-ci-terraform)
 
 ## Description
 
